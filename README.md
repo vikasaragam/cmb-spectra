@@ -19,4 +19,4 @@ We define the equations of motion governing the two types of perturbations and s
 
 We also include the possibility of a temporary coupling, \omega, between \zeta and Q_s in the form of a sharply peaked turning-rate profile. The term "turning-rate" comes from the geometrical picture of viewing the multiple fields' evolution as tracing out a trajectory in field-space. Geodesic trajectories involve no turning and correspond to two separate, effectively single-field perturbations. The turning rate \omega is defined in terms of the e-fold coordinate at which the profile peaks, and the half-width of the profile, \delta N. We use the terms "profile" and "feature" interchangeably in the code, as a nonzero turning rate can induce interesting features in the primordial power spectrum.
 
-The code is split into several cells that can be run separately in Spyder.
+The code is split into several cells that can be run separately in Spyder, VS Code, etc.
